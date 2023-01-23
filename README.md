@@ -10,8 +10,9 @@
 
  To use Llama for logging your analyses, two components are needed: 
  
-  **The Llama Logger**, currently available for Python and Julia:<br/>
+  **A Llama Logger**, currently available for Python and Julia:     
     &nbsp;&nbsp; [Llama.py](https://github.com/Cornelius-G/Llama.py)
     &nbsp;&nbsp; [Llama.jl](https://github.com/Cornelius-G/Llama.jl)
  
-  **The Llama Viewer**, an electron app to view the results of your logging (available for Windows, macOS and Linux)
+  **The Llama Viewer**, an electron app to view the results of your logging (available for Windows, macOS, and Linux)
+    &nbsp;&nbsp; [Llama Viewer](https://github.com/Cornelius-G/Llama-viewer)
