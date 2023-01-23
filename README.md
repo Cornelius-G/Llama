@@ -4,9 +4,14 @@
 <img src="icon/llama.png" width="280" align="left"/>
 
 
-#### Hi, I'm Llama and I will help you log your analyses so you can keep track of all of them.
+**Hi, I'm Llama and I will help you log your analyses so you can keep track of all of them.**
+
 <br/>
 
-To use Llama you need to components: 
- - **The Llama Logger**, currently available for Python and Julia
- - **The Llama Vievwer**, an electron app to view the results of the logging available for Windows, macOS and Linux
+ To use Llama for logging your analyses, two components are needed: 
+ 
+  **The Llama Logger**, currently available for Python and Julia:<br/>
+    &nbsp;&nbsp; [Llama.py](https://github.com/Cornelius-G/Llama.py)
+    &nbsp;&nbsp; [Llama.jl](https://github.com/Cornelius-G/Llama.jl)
+ 
+  **The Llama Viewer**, an electron app to view the results of your logging (available for Windows, macOS and Linux)
